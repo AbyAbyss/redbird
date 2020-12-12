@@ -1,4 +1,4 @@
-# Redbird Reverse Proxy
+# Redbird Reverse Proxy [Compatible only with InstaSafe, not for generic public use]
 
 ## With built-in Cluster, HTTP2, [LetsEncrypt](https://letsencrypt.org/) and [Docker](https://www.docker.com/) support
 
